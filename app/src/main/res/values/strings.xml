@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="x_book">%s Book</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="buku_baru">Buku Baru</string>
+    <string name="lihat_penulis">Lihat Penulis</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="buku_yang_mirip">Buku Yang Mirip</string>
+    <string name="no_telp">No Telp</string>
+</resources>
