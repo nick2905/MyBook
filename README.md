@@ -27,7 +27,7 @@ This application is submission for Mobile Developer Intern on mamikos.com
 ### Clone
 
 ```
-git clone https://github.com/nick2905/CovidMonitor.git
+git clone https://github.com/nick2905/MyBook.git
 ```
 ## Contributing
 
